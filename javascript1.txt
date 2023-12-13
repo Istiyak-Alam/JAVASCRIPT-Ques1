@@ -1,0 +1,54 @@
+
+Q 1 :- What are the different data types present in javascript?
+
+Answer :- There are two types of data types in javascript:
+          1:- Primitive data types.
+          2:- Non-Primitive data types.
+
+          Primitive data types:-Numbers:- An integer or floating point numbeer
+                                Strings :- Represents textual data enclosed in either single ('') or double ("") quotes, like "Hello".
+                                Null :- Null variables are intentionally assigned the null value.
+                                Boolean :- Represents the two special values "true" and "false".
+                                Undefined :- When a variable is declareed but has not been assigned a value,it is automatically initialized with undefined. 
+                                BigInt :- An integer with arbitary precision.
+
+          Primitive data types:-Object:-Objects are containers for storing data and related methods.
+                               Array:-These are ordered collections of data values. Arrays can contain any type of data-numbers,strings,objects,or even other arrays.
+                               Function:-functions are first-class objects, which means they can have properties and methods.
+                               Dates:-JavaScript provides the Date object which allows the manipulation and formatting of dates.
+                               RegExp:-JavaScript provides the RegExp object to work with regular expressions.
+
+Q 2 :- What are the JavaScript Engines?
+
+Answer :- JavaScript engines are programs that execute JavaScript code in web browsers or server environments. They parse and interpret the code, optimizing it for faster execution. Engines like V8 (used in Chrome), SpiderMonkey (used in Firefox), and Chakra (used in older versions of Microsoft Edge) translate JavaScript into machine code that computers can understand and run. They handle tasks like memory management, garbage collection, and performance enhancements to ensure efficient code execution.
+
+Q 3 :- Explain ECMA in JS.
+
+Answer :- ECMA (European Computer Manufacturers Association) in JavaScript is an international organization that provides the technical framework for web development. 
+ECMA in JavaScript refers to the international standardization body behind JavaScript, which has significantly impacted web development. Its adoption of a scripting language and support for key programming concepts have enabled the creation of more dynamic and interactive web applications.
+
+
+Q 4 :- Why We use JavaScript?
+
+Answer :- In summary, JavaScript offers versatility, dynamic interaction, extensive community support, and compatibility across various platforms, making it an ideal choice for web development.
+
+
+Q 5 :- What is JavaScript? And also Explain the histroy of JavaScript?
+
+Answer :- JavaScript is a high-level, interpreted programming language. It is not just for the web, but also can be used in server-side environments, desktop applications, and even mobile applications.
+JavaScript is commonly used to provide interactive and dynamic functionality on websites, which enhances user experience.
+
+Histroy of JavaScript :- In the mid-1990s, Netscape's Marc Andreessen had the idea of making the web more dynamic by allowing web pages to interact with users without reloading the page.
+
+This idea was realized with the development of LiveScript, a scripting language for client-side web programming, in the Netscape Navigator browser. When Netscape communicated its strategy to Sun Microsystems, the latter had its own similar language, which was later named JavaScript.
+
+In 1997, JavaScript was officially standardized by the European Computer Manufacturers Association (ECMA) under the name ECMAScript, with ECMAScript 1 (ES1) being equivalent to JavaScript.
+
+Over the years, JavaScript has evolved significantly. Today, it is widely used across the internet, enhancing the user experience in web applications and enabling complex applications and functionalities on various platforms.
+
+
+Q 6 :- What is DOM in js?
+
+Answer :- DOM stands for Document Object Model. It is a programming interface for HTML and XML documents. The DOM represents the structure of a document as a tree of nodes, each with its own properties and methods.
+
+In JavaScript, you can use the DOM API to create new HTML elements, add and remove elements from the document, change the attributes and contents of elements, and register event listeners on elements
